@@ -117,3 +117,5 @@ app.listen(port, () => {
   Modeling
   Associations
   Migrations*/
+
+  // for start ther server "node dist/server.js"
