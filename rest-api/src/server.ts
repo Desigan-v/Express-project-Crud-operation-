@@ -107,7 +107,7 @@ app.delete('/deluser/:id', async (req: Request, res: Response) => {
   }
 });
 
-// Start the server
+// Server
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
